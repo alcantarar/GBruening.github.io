@@ -13,9 +13,12 @@ redirect_from:
 * B.S. in Biomedical Engineering, Univeristy of Arizona, 2015
 * M.S. in Integrative Physiology, University of Colorado, Boulder, 2017
 * Ph.D in Integrative PHysiology, University of Colorado, Boulder, 2020
+___
 
 ## Technical Skills
 MATLAB (Simulation and Modeling, Data Processing, Probabilistic modeling), RStudio (Data Analysis, Data Visualization, Statistical Analysis), Python (Probabilistic Modeling, Statistics, Data Analysis, Data Visualization), LaTeX (Scientific writing), Microsoft Word (documentation), Microsoft Excel (Data Processing), Mechanical and Electrical Part Design, Good laboratory practices
+
+___
 
 ## Human Physiology Research
 * Fall 2015 - Present: **Graduate Research Assistant**
@@ -41,6 +44,8 @@ MATLAB (Simulation and Modeling, Data Processing, Probabilistic modeling), RStud
     * Translate research into possible improvements to current product.
     * Present idea for future development and value to a board of executives.
 
+___
+
 ## Mechanical Engineering Experience
 * Fall 2014 - Spring 2015: **Senior Design Project** at University of Arizona Medical School Fall
   * _Design and build an automated Knee Joint extensions simulator for cadaver specimens_
@@ -58,6 +63,8 @@ MATLAB (Simulation and Modeling, Data Processing, Probabilistic modeling), RStud
     * Design and build apparatus to measure liquid flow using MRI, used SketchUp and Solid Works.
     * Use MATLAB image processing to determine velocity of fluid.
 
+___
+
 ## Presentations
 * How well do neuromechanically proxies represent metabolic power in arm reaching?
   * July 2019: Congress of the International Society of Biomechanics, American Society of Biomechanics in Calgary, Canada
@@ -73,6 +80,8 @@ MATLAB (Simulation and Modeling, Data Processing, Probabilistic modeling), RStud
 * Development and testing of active knee joint extender for cadaver specimens
   * May 2015: University of Arizona Senior Design Day
 
+___
+
 ## Teaching
 * Fall 2015 - Present: Integrative Physiology Graduate Teaching Assistant at University of Colorado Boulder
   * _Human Biomechanics_
@@ -84,6 +93,9 @@ MATLAB (Simulation and Modeling, Data Processing, Probabilistic modeling), RStud
 
 
 
+___
+___
+___
 
 * Fall 2015: Research Assistant
   * Github University

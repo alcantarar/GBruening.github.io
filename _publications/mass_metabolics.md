@@ -1,7 +1,7 @@
 ---
 title: "Effects of mass on metabolic cost and how it effects preferred movement duration."
 collection: publications
-permalink: /publication/mass_metabolics
+permalink: /publications/mass_metabolics
 excerpt: 'testing'
 date: 2019-10-01
 venue: 'Journal 1'
