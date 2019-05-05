@@ -1,5 +1,6 @@
 ---
 layout: single
+classes: wide
 title: "Modeling Arm Motion in 2-D"
 excerpt: "I developed a biomechanically accurate model of the human arm that estimates effort costs."
 header:

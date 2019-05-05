@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "Teaching experience TEst"
 collection: teaching
 type: "Undergraduate course"

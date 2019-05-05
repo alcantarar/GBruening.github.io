@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "Biomechanics Teaching Assistant"
 collection: teaching
 type: "Undergraduate course"
