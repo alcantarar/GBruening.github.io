@@ -1,12 +1,12 @@
 ---
 layout: single
 classes: wide
-title: "Modeling Arm Motion in 2-D"
-excerpt: "I developed a biomechanically accurate model of the human arm that estimates effort costs."
+title: "Modeling 2"
+excerpt: "things  of the human arm that estimates effort costs."
 header:
 teaser: /images/arm_model/Muscle_diagram.png
 collection: project
-permalink: /projects/arm_model
+permalink: /projects/arm_model2
 author_profile: true
 share: true
 ---
