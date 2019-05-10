@@ -6,7 +6,7 @@ collection: presentations
 permalink: /presentations/RMASB2019
 excerpt: 'Does metabolic cost explain mass-based changes in preferred reaching speed?'
 date: 2019-4-5
-venue: 'RMASB'
+venue: RMASB
 author_profile: true
 ---
 <embed src="/posters/RMASB2019_v3_black_orange.pdf" type="application/pdf"/>

@@ -5,5 +5,5 @@ permalink: /presentations/
 author_profile: true
 ---
 {% for post in site.presentations reversed %}
-  {% include archive-single.html %}
+  {% include archive-single-talk.html %}
 {% endfor %}
