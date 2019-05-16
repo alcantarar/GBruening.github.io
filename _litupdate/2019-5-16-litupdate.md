@@ -1,5 +1,5 @@
 ---
-title: Biomechanics Literature Update
+layout: singletitle: Biomechanics Literature Update
 collection: literature
 permalink: /literature/2019-5-16-litupdate
 excerpt: <br>
