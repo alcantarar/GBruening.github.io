@@ -1,4 +1,5 @@
 ---
+layout: single
 title: Biomechanics Literature Update
 collection: literature
 permalink: /literature/2019-5-16-litupdate
