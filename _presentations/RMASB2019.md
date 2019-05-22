@@ -32,7 +32,7 @@ An open question in motor control is how the brain selects the duration of a mov
 <!-- [image-center](/images/RMASB2019/metpoweronly.png){: .align-center} -->
 <figure class ="align-center" style = 'width: 400px'>
     <a href="/images/RMASB2019/metpoweronly.png"><img src="/images/RMASB2019/metpoweronly.png"></a>
-    <figcaption>Placeholder as a test for inserting images.</figcaption>
+    <figcaption>The metabolic minimum's and function describing the curve.</figcaption>
 </figure>
 
 

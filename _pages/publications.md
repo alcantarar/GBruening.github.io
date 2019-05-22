@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-Pubs
+Working on getting these two papers published.
 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}

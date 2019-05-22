@@ -1,18 +1,21 @@
 ---
 layout: single
-title: "Effects of mass <!-- on metabolic cost and how it effects preferred movement duration. -->"
+title: "Metabolic cost of arm reaching."
 collection: publications
 permalink: /publications/massmetabolics
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+excerpt: 'IN PREP: Metabolic cost does not predict preferred movement duration.'
+date: 2019-5-22
+venue: 'In Prep'
+paperurl: 'https://gbruening.github.io/presentations/RMASB2019'
+citation: 'Bruening, Garrick; Ahmed, Alaa. (2019). &quot;Effects of mass on metabolic cost of arm reaching.&quot; <i>Journal 1</i>. 1(3).'
 ---
-This paper is about the number 3. The number 4 is left for future work.
-<embed src="https://github.com/GBruening/GBruening.github.io/raw/master/images/arm_model/Full2.pdf" type="application/pdf" />
 
+We compared the metabolic cost of arm reaching to preferred arm reaching durations. The minimum metabolic cost does not agree with the preferred duration. A utility model that sums the reward minus effort, both discounted by time, is able to well predict the preferred movement duration.
+<figure class ="align-center" style = 'width: 400px'>
+    <a href="/images/RMASB2019/metpoweronly.png"><img src="/images/RMASB2019/metpoweronly.png"></a>
+    <figcaption>The metabolic minimum's and function describing the curve.</figcaption>
+</figure>
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
+[Download poster here](https://gbruening.github.io/presentations/RMASB2019)
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+<!-- Recommended citation: Bruening, Garrick; Ahmed, Alaa. (2019). "Effects of mass on metabolic cost of arm reaching." <i>Journal 1</i>. 1(3). -->
